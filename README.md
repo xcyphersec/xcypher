@@ -1,1 +1,1 @@
-# xcypher
+xcypher adalah seorang developer atau pengembang perangkat lunak yang menciptakan proyek xtwin. Proyek xtwin menggunakan NodeMCU esp8266 sebagai alat untuk tujuan edukasi dalam bidang penetrasi jaringan. Xcypher membangun proyek xtwin dengan tujuan untuk membantu pengguna mempelajari teknik-teknik penetrasi jaringan dan cara melindungi jaringan mereka dari serangan yang mungkin terjadi.
